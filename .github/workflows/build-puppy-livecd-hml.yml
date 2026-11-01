@@ -1,8 +1,6 @@
 name: Build Puppy Live CD (HML Edition)
 
 on:
-  #schedule:
-    #- cron: '0 2 */20 * *' # daily at 02:00 UTC
   workflow_dispatch:
 
 jobs:
