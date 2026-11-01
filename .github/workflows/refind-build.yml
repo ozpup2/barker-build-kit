@@ -1,7 +1,6 @@
 name: Build rEFInd
 
 on:
-  
   workflow_dispatch:
 
 jobs:
