@@ -1,11 +1,11 @@
 #One or more words that identify this distribution:
-DISTRO_NAME='RabbitPup64'
+DISTRO_NAME='ozpup64'
 #version number of this distribution:
-DISTRO_VERSION=26.01
+DISTRO_VERSION=26.11
 #The distro whose binary packages were used to build this distribution:
 DISTRO_BINARY_COMPAT='debian'
 #Prefix for some filenames: exs: RazorPuppy64save.2fs, RazorPuppy64-26.01.sfs
-DISTRO_FILE_PREFIX='RabbitPup64'
+DISTRO_FILE_PREFIX='ozpup64'
 #The version of the distro whose binary packages were used to build this distro:
 DISTRO_COMPAT_VERSION='sid'
 #the kernel pet package used:
@@ -17,13 +17,13 @@ BUILD_FROM_WOOF='testing;469bed2d3;2021-04-01 18:24:26 +1000'
 #Puppy default filenames...
 #Note, the 'SFS' files below are what the 'init' script in initrd.gz searches for,
 #for the partition, path and actual files loaded, see PUPSFS and ZDRV in /etc/rc.d/PUPSTATE
-DISTRO_PUPPYSFS='puppy_rabbitpup64_26.01.sfs'
-DISTRO_ZDRVSFS='zdrv_rabbitpup64_26.01.sfs'
-DISTRO_FDRVSFS='fdrv_rabbitpup64_26.01.sfs'
-DISTRO_ADRVSFS='adrv_rabbitpup64_26.01.sfs'
-DISTRO_BDRVSFS='bdrv_rabbitpup64_26.01.sfs'
-DISTRO_GDRVSFS='gdrv_rabbitpup64_26.01.sfs'
-DISTRO_XDRVSFS='xdrv_rabbitpup64_26.01.sfs'
-DISTRO_NDRVSFS='ndrv_rabbitpup64_26.01.sfs'
-DISTRO_YDRVSFS='ydrv_rabbitpup64_26.01.sfs'
-DISTRO_PUPPYDATE='Jan 2026'
+DISTRO_PUPPYSFS='puppy_ozpup64_26.11.sfs'
+DISTRO_ZDRVSFS='zdrv_ozpup64_26.11.sfs'
+DISTRO_FDRVSFS='fdrv_ozpup64_26.11.sfs'
+DISTRO_ADRVSFS='adrv_ozpup64_26.11.sfs'
+DISTRO_BDRVSFS='bdrv_ozpup64_26.11.sfs'
+DISTRO_GDRVSFS='gdrv_ozpup64_26.11.sfs'
+DISTRO_XDRVSFS='xdrv_ozpup64_26.11.sfs'
+DISTRO_NDRVSFS='ndrv_ozpup64_26.11.sfs'
+DISTRO_YDRVSFS='ydrv_ozpup64_26.11.sfs'
+DISTRO_PUPPYDATE='Nov 2026'
